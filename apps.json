@@ -1,0 +1,21 @@
+{
+  "about": "Every hub, page and app for Club staff: one entry per repo. This file is public, so it holds no names of people and nothing private. How to add a product: see the README.",
+  "apps": [
+    {
+      "name": "The Squad",
+      "repo": "all",
+      "address": "https://team.nccourage.com/all/",
+      "department": "club",
+      "kind": "page",
+      "sign_in": false
+    },
+    {
+      "name": "Product Store",
+      "repo": "store",
+      "address": "https://team.nccourage.com/store/",
+      "department": "business-operations",
+      "kind": "app",
+      "sign_in": false
+    }
+  ]
+}
